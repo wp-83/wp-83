@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I enjoy building projects, learning new technologies, and improving my coding skills every day.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wp-83&show_icons=true&theme=tokyonight)
 
 ---
 
