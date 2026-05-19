@@ -14,8 +14,7 @@
 
 </div>
 
-## 👾 Pacman Contribution Graph
-
+## 👾 Contribution Map
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/wp-83/wp-83/output/pacman-contribution-graph.svg">
 </p>
