@@ -21,6 +21,6 @@
 
 ## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,tailwind,bootstrap,php,laravel,react,r,flutter,git,github,githubactions,postman,vscode,figma&perline=10" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,tailwind,bootstrap,php,laravel,react,r,flutter,git,github,githubactions,postman,vscode,figma" />
 </p>
