@@ -14,7 +14,7 @@
 
 </div>
 
-## 🎮 Pacman Contribution Graph
+## 👾 Pacman Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wp-83/wp-83/output/pacman-contribution-graph.svg">
