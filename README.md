@@ -4,17 +4,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wp-83&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4f46e5&icon_color=6366f1&text_color=374151" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wp-83&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4f46e5&text_color=374151" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=wp-83&theme=default&hide_border=true&background=FFFFFF&ring=6366f1&fire=6366f1&currStreakLabel=4f46e5" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wp-83&show_icons=true&theme=transparent&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wp-83
-    &theme=flat&no-frame=true&margin-w=10&row=1" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wp-83&layout=compact&theme=transparent&hide_border=true"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=wp-83&theme=transparent&hide_border=true"/>
+
+</div>
