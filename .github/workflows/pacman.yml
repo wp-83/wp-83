@@ -1,4 +1,4 @@
-name: Generate Pacman Maze
+name: Generate Pacman
 
 on:
   schedule:
@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Pacman Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: wp-83
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-light&animation=pacman
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
