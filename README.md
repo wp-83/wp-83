@@ -14,7 +14,19 @@
 
 </div>
 
-## 👾 Pacman Contribution Graph
+## 👾 Pacman Contribution Map
 <p align="center">
   <img src="https://raw.githubusercontent.com/wp-83/wp-83/output/pacman-contribution-graph.svg">
 </p>
+
+## 🚀 Tech Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,docker,figma,git" />
+
+</div>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
