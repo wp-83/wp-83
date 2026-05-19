@@ -21,12 +21,19 @@
 
 ## 🚀 Tech Stack
 
-<div align="left">
+## 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,docker,figma,git" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,r" />
 
-</div>
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=laravel,mysql" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma" />
