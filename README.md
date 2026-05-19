@@ -21,19 +21,6 @@
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,r" />
-
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=laravel,mysql" />
-
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,tailwind,bootstrap,php,laravel,react,r,flutter,git,github,githubactions,postman,vscode,figma&perline=10" />
+</p>
