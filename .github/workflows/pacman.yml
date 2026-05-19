@@ -1,4 +1,4 @@
-name: Generate Pacman Animation
+name: Generate Pacman
 
 on:
   schedule:
@@ -10,16 +10,18 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman Contribution Graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman
+        uses: Platane/snk@v3
         with:
           github_user_name: wp-83
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github
 
-      - name: Push generated files
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
