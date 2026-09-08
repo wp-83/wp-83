@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<img height="200" src="./profile/stats.svg" />
+<img height="200" src="https://raw.githubusercontent.com/wp-83/wp-83/output/stats.svg" />
 &nbsp;&nbsp;
-<img height="200" src="./profile/top-langs.svg" />
+<img height="200" src="https://raw.githubusercontent.com/wp-83/wp-83/output/top-langs.svg" />
 </div>
 
 ## 👾 Pacman Contribution Map
