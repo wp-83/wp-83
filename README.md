@@ -5,12 +5,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wp-83&show_icons=true&theme=default&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wp-83&layout=compact&theme=default&hide_border=true"/>
+<img
+  height="165"
+  src="./profile/stats.svg"
+/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=wp-83&theme=default&hide_border=true"/>
+<img
+  height="165"
+  src="./profile/top-langs.svg"
+/>
 
 </div>
 
