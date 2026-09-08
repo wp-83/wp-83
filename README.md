@@ -6,16 +6,9 @@
 
 <div align="center">
 
-<img
-  height="165"
-  src="./profile/stats.svg"
-/>
-
-<img
-  height="165"
-  src="./profile/top-langs.svg"
-/>
-
+<img height="200" src="./profile/stats.svg" />
+&nbsp;&nbsp;
+<img height="200" src="./profile/top-langs.svg" />
 </div>
 
 ## 👾 Pacman Contribution Map
